@@ -17,7 +17,7 @@ matthew.cavener@gmail.com | github.com/matthew-cavener
 - Built Python ETL pipelines to inject production-like data into testing pipelines
 
 **Software Engineer**, Carvana <span style="float: right;">July 2019 to Nov 2021</span>
-- Implemented new conversational paths in a chatbot to reduce customer service call volume
+- Implemented new conversational paths in Python chatbot to reduce customer service call volume
 - Implemented A/B testing for chatbot verbiage
 - Developed proof of concept for graph DB implementation of chatbot conversation trees
 
@@ -28,12 +28,12 @@ matthew.cavener@gmail.com | github.com/matthew-cavener
 - Built proof of concept chatbot builder for chat widget
 
 **Software Developer**, 7-Eleven Stores <span style="float: right;">May 2017 to Jan 2018</span>
-- Developed and maintained point of sale backend services
+- Developed and maintained point of sale backend services in Python
 - Automated deployment of discounts and promotions to stores
 
 ## Skills
 - **Languages**: Python, JavaScript, TypeScript, SQL, GDScript
-- **Technologies**: FastAPI, Git, AWS, Docker, Terraform, scipy, React, Node, Neo4j
+- **Technologies**: FastAPI, Flask, Git, AWS, Docker, Terraform, React, Node, Neo4j
 - **Other**: API design, unit, integration, and end-to-end testing, CI/CD
 
 ## Education
