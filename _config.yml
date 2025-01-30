@@ -1,3 +1,4 @@
 theme: jekyll-theme-midnight
 name: true
 title: false
+show_githublink: false
