@@ -12,7 +12,7 @@ matthew.cavener@gmail.com | github.com/matthew-cavener
 - Improved CircleCI pipelines to facilitate testing and simplify deployment of new services
 - Migrated CI/CD pipelines from CircleCI to GitHub Actions
 
-**Sr. Data Engineer**, Nike (via IGNW) <span style="float: right;">Jan 2021 to Jan 2022</span>
+**Data Engineer**, Nike (via IGNW) <span style="float: right;">Jan 2021 to Jan 2022</span>
 - Improved data quality by leveraging ML models to align synthetic data with production data
 - Built Python ETL pipelines to inject production-like data into testing pipelines
 
