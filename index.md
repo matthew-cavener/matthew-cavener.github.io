@@ -9,7 +9,7 @@ Software Developer with a particular interest in making applications users enjoy
 ### Software Engineer 2, divvyDOSE/Optum *(Jan 2022 – Present)*
 
 - Led design and development of AWS Lambda functions in TypeScript for processing batched SQS messages
-- Designed and built .NET Core microservices powering user self-service portal
+- Designed and built .NET microservices powering user self-service portal
 - Created Terraform modules to manage AWS resources, eliminating manual configurations
 - Optimized company boilerplate DynamoDB queries, reducing AWS spend
 - Created React components for user-self service portals
@@ -43,7 +43,7 @@ Software Developer with a particular interest in making applications users enjoy
 
 ## Skills
 
-- **Backend:** Python (FastAPI, Flask, Django, Hug, Tornado), Node.js, .NET Core, Java (Spring Boot)
+- **Backend:** Python (FastAPI, Flask, Django, Hug, Tornado), Node.js, .NET, Java (Spring Boot)
 - **Frontend:** JavaScript/TypeScript, React, Next.js
 - **DevOps & Cloud:** AWS (Lambda, EC2, DynamoDB, S3, API Gateway, SQS, RDS, IAM), Terraform, Docker, Kubernetes, CI/CD (GitHub Actions, CircleCI)
 - **Data & Storage:** SQL, NoSQL (DynamoDB, Neo4j, Redis), Pandas, NumPy, sklearn, TensorFlow
